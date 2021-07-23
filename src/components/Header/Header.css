@@ -1,0 +1,29 @@
+.header img{
+height: 80px;
+
+}
+.header{
+    
+    text-align: center;
+    }
+
+.navbar-header {
+    background-color: black;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 40px;
+    
+ }
+.navbar-header a{
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    padding: 5px;
+    
+}
+.navbar-header a:hover{
+    background-color: coral;
+}
+.h-icon{
+    color: white;
+}
